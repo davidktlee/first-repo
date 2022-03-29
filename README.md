@@ -14,6 +14,8 @@ $ npm install
 $ npm start
 ```
 
+or, just clone `$ npm i & npm start`.
+
 ## Core logic
 
 ```python
@@ -26,6 +28,6 @@ animal.append('kangaroo')
 [Google](www.google.co.kr)
 ![A man is sitting on the chair](/img/man-on-the-chair.jpg)
 
-
+## Contributing
 
 
